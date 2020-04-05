@@ -1,0 +1,37 @@
+<!-- 
+  Christopher Ermel
+  200250446
+  12/03/2019
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+  <title>Top FIVE Weird Deals DOT Com!</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="main.js" async></script>
+</head>
+<body>
+  <header>   
+  </header>
+  <section>
+  </section>
+  <p><h2>Visit Us At: Weirdale, SK!</h2><p>
+  <div id="map"></div>
+    <script>
+      var map;
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: 53.448, lng: -105.238},
+          zoom: 8
+        });
+      }
+    </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCUjR43tEEFaQW1JIQ2hcOQAfbujGy46E4&callback=initMap" async defer></script>
+  <hr>
+  <footer>
+    <p>All images and product information taken from the following source: https://bestlifeonline.com/50-craziest-amazon-items/</p>
+    <p>Top FIVE Weird Deals DOT Com! Copyright &copy; 2019</p>
+  </footer>
+</body>
+</html>

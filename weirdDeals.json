@@ -1,0 +1,70 @@
+// Christopher Ermel
+// 200250446
+// 12/03/2019
+{
+"companyName" : "Top FIVE Weird Deals DOT Com!",
+"headOffice" : "Weirdale, SK",
+"established" : 2019, 
+"active" : true,
+"topFiveWDeals" : [
+  {
+    "name" : "A pre-fabricated home in a shipping container!", 
+    "price" : "$36,000",
+    "desc" : "Who says you have to pay exorbitant broker fees to find the home of your dreams? You can make your dreams of homeownership come true as easily as you'd buy a bottle of dish soap, thanks to this storage-container-turned-house, available for a cool $36K.", 
+    "features" : [
+      "Fully furnished tiny home - pre-fabricated from new shipping container.", 
+      "Includes bedroom, shower, toilet, sink, kitchenette, living area.", 
+      "Double patio doors within secure container doors.Fully insulated.",
+      "Bottom sewer connection, easy side water and electrical connection." 
+    ],
+    "image": "tinyHome.jpg"
+  },
+  
+  {
+    "name" : "1,500 live ladybugs!", 
+    "price" : "$3.05",
+    "desc" : "Who says you can't buy anything for under $10 anymore? In fact, Amazon shoppers can buy 1,500 crawling, flying somethings for the bargain price of a latte.", 
+    "features" : [
+      "Includes a Ladybug educational sheet with Release Tips, Release Rates, Ladybug Fun Facts and FAQ's.", 
+      "Ladybugs are general predators that feed on a variety of slow-moving insects including Aphids, Moth eggs, Mites, Scales, Thrips, Leaf Hoppers, Mealybugs, Chinch Bugs, Asparagus Beetle larvae, Whitefly and others.", 
+      "Nature's Good Guys mesh bag of Live adult ladybugs." 
+    ],
+    "image": "ladyBugs.jpg"
+  },
+  
+  {
+   "name" : "Uranium ore!", 
+    "price" : "$39.95",
+    "desc" : "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks.", 
+    "features" : [
+      "The ore sample is Naturally Occurring Radioactive Materials (NORM).", 
+      "No chemical or spectral analysis is performed on the radioactive ore sample.", 
+      "Each ore sample is checked and measured for its radioactivity using an NRC certified Digital Geiger counter that has passed ANSI-STD N323A calibration using a NIST traceable source from an independent government licensed lab conforming to NRC regulations 10-CFR-34, 10-CFR-35, making the Geiger counter suitable for regulatory inspections. License exempt. Radioactive ore sample size and CPM activity will vary. Shipped in labeled metal container as shown." 
+    ],
+    "image": "ore.jpg"
+    },
+
+    {
+    "name" : "A home mushroom farm!", 
+    "price" : "$22.85",
+    "desc" : "Now you can grow your own fungus right at home—and not in between your toes!", 
+    "features" : [
+      "ORGANIC MUSHROOM GROWING KIT: Grow delicious, gourmet oyster mushrooms right out of the box in just 10 days! Just add water and watch them double in size each day. Perfect for tacos, pizza, soups, and salads.", 
+      "GREAT GIFT: This kit has been ranked among top Holiday Gifts, Gardening Gifts, Teachers Gifts & Unique Gifts. It comes READY TO GIFT in beautiful packaging & will be sure to be THE gift of the year. Go ahead & treat yourself or a loved one today!"
+    ],
+    "image": "mush.jpg"
+  },
+  
+  {
+    "name" : "A cat butt tissue holder!", 
+    "price" : "$34.94",
+    "desc" : "This seems like the nicest thing to be plucked from a cat's rear since, well, ever. And who doesn't like to be stared down with peering, inquisitive eyes each time they need to blow their nose?", 
+    "features" : [
+      "THESE KITTIES LOVE TO HELP - Keep your tissues close at hand with the help of your trusty feline friend.", 
+      "HUMOROUS TISSUE HOLDER - You are certain to get loads of laughs and visitors to your powder room or office will love to grab a tissue from this quirky cat.", 
+      "FITS SQUARE TISSUE BOXES - Measures 12.5\" long x 9.25\" wide, fits standard square tissue boxes." 
+    ],
+    "image": "cat.jpg"
+  }
+  ]
+}
